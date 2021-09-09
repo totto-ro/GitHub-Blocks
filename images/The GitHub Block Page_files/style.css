@@ -32,7 +32,7 @@ body{
     justify-content:space-evenly;
 }
 .row_img > img{
-    height: 200px;
+    width: 150px;
     margin: 15px;
 }
 section{
@@ -54,3 +54,4 @@ section{
 #third_cats{
     background-color: antiquewhite;
     margin: 10px 40px 10px 40px;
+
